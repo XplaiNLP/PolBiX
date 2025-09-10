@@ -20,7 +20,7 @@ These pairs enable us to analyze whether models remain consistent when the same 
 This repository contains:
 
 - The **dataset** of German claims.
-- The **scripts** for running experiments and analyzing results.
+- The **scripts** for analyzing results.
 
 ## Run the Evaluation
 
