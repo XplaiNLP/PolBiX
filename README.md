@@ -9,7 +9,7 @@
 - [Citation](#-citation)
 - [License](#-license)
 
-## Introduction
+## 🌈&nbsp; Introduction
 
 This repository accompanies the paper **"PolBiX: Detecting LLMs’ Political Bias in Fact-Checking through X-phemisms"**.
 
@@ -22,7 +22,7 @@ This repository contains:
 - The **dataset** of German claims.
 - The **scripts** for analyzing results.
 
-## Run the Evaluation
+## 🚀&nbsp; Run the Evaluation
 
 ### Requirements & Installation
 
