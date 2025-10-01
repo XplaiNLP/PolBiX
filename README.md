@@ -66,12 +66,15 @@ pip install -r requirements.txt
 
 If you find the code or dataset patch helpful, please cite the following paper:
 
-````
-
+```
+@article{jakob2025polbix,
+  title={PolBiX: Detecting LLMs' Political Bias in Fact-Checking through X-phemisms},
+  author={Jakob, Charlott and Harbecke, David and Parschan, Patrick and Neves, Pia Wenzel and Schmitt, Vera},
+  journal={arXiv preprint arXiv:2509.15335},
+  year={2025}
+}
 ```
 
 ## 🪪&nbsp; License
 
-PolBiX is released under the terms of the [MIT License](LICENSE).
-```
-````
+PolBiX is released under the terms of the CC BY-NC 4.0 License.
